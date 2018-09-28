@@ -1,25 +1,28 @@
-## Welcome to GitHub Pages
+# Welcome to Women in Tech Turkey
 
-You can use the [editor on GitHub](https://github.com/witturkey/witturkey.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This website is under costruction.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_Bu sayfayı Türkçe görüntülemek için buraya tıklayın._
 
-### Markdown
+Are you a woman working in the technology field? Or are you a woman studying computer, electrical or software engineering? Maybe you just like attending tech events?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is a community for women in Turkey who are interested in technology.
 
-```markdown
-Syntax highlighted code block
+## Purpose
 
-# Header 1
-## Header 2
-### Header 3
+Creating a network for women in technology from all parts of Turkey.
 
-- Bulleted
-- List
+## What do we do?
+- Creating a more diverse community by sharing announcements of tech events with each other and connecting there
+- Highlighting successful women in Turkey scene
+- Sharing tech related news with each other to stay up-to-date
 
-1. Numbered
-2. List
+## How can you join us?
+
+
+1. Slack
+2. Linkedin
+3. Facebook
 
 **Bold** and _Italic_ and `Code` text
 
