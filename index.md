@@ -1,5 +1,5 @@
 <head>
-  <link rel="shortcut icon" type="image/png" href="witturkey.png">
+  <link rel="shortcut icon" href="witturkey.png">
 </head>
 
 ![Image](witturkey-banner.png)
