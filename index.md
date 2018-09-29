@@ -1,12 +1,12 @@
 _Bu sayfayı Türkçe görüntülemek için [buraya](index-tr.md) tıklayın._
 
-![Image](witturkey-logo.jpg)
-
 # Welcome to Women in Technology Turkey
 
 Are you a woman working in the technology field? Or are you a woman studying computer, electrical or software engineering? Maybe you just like attending tech events?
 
 Here is a community for women in Turkey who are interested in technology.
+
+![Image](witturkey-banner.jpg)
 
 ## Purpose
 
