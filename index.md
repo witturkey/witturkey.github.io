@@ -1,6 +1,3 @@
-<head>
-  <link rel="shortcut icon" href="witturkey.png">
-</head>
 
 ![Image](witturkey-banner.png)
 
