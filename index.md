@@ -1,5 +1,7 @@
 _Bu sayfayı Türkçe görüntülemek için [buraya](index-tr.md) tıklayın._
 
+![Image](witturkey-logo.jpg)
+
 # Welcome to Women in Technology Turkey
 
 Are you a woman working in the technology field? Or are you a woman studying computer, electrical or software engineering? Maybe you just like attending tech events?
@@ -37,10 +39,6 @@ You can send your mail to: witturkey [at] gmail.com
 ### Facebook
 --->
 
-<!---
-**Bold** and _Italic_ and `Code` text
-[Link](url) and ![Image](src)
---->
 
 ### Contact Us
 witturkey [at] gmail.com
