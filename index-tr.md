@@ -39,5 +39,5 @@ Mailinizi buraya yollayabilirsiniz: witturkey [at] gmail.com
 ### Facebook
 Facebook grubumuza [buradan](https://www.facebook.com/groups/witturkey/) katılabilirsiniz.
 
-### Contact Us
+### Bizimle iletişime geçin
 witturkey [at] gmail.com
