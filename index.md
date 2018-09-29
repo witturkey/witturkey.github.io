@@ -19,7 +19,7 @@ Creating a network for women in technology from all parts of Turkey.
 
 ## Rules
 - You are welcome to join if you identify yourself as a woman in any way that’s meaningful to you.
-- We neither expect you to be Turkish nor we are interested in your race or ethnicity. 
+- We do not expect you to be Turkish, nor are we interested in your race or ethnicity. 
 - We don’t expect you to be able to write code.
 - It is sufficient to have an interest in activities or opportunities in Turkey and communicating with women in technology.
 - If you are being harassed by a member, noticed that someone else is being harassed, or have any other concerns you can send us a mail with the following subject: "Reporting - _Insert short desprition_." In such a case, the administrators may take any action they deem appropriate.
