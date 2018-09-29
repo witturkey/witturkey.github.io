@@ -6,7 +6,7 @@ Are you a woman working in the technology field? Or are you a woman studying com
 
 Here is a community for women in Turkey who are interested in technology.
 
-![Image](witturkey-banner.jpg)
+![Image](witturkey-banner.png)
 
 ## Purpose
 
