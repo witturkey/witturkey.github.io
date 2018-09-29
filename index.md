@@ -1,3 +1,7 @@
+<head>
+  <link rel="shortcut icon" type="image/png" href="witturkey.png">
+</head>
+
 ![Image](witturkey-banner.png)
 
 _Bu sayfayı Türkçe görüntülemek için [buraya](index-tr.md) tıklayın._
