@@ -1,3 +1,5 @@
+![Image](witturkey-banner.png)
+
 _Click [here](https://witturkey.github.io) to view this website in English._
 
 # Teknolojide Kadınlar Türkiye'ye Hoşgeldiniz
