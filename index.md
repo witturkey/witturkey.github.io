@@ -1,4 +1,4 @@
-_Bu sayfayı Türkçe görüntülemek için [buraya](https://witturkey.github.io) tıklayın._
+_Bu sayfayı Türkçe görüntülemek için [buraya](index-tr.md) tıklayın._
 
 # Welcome to Women in Technology Turkey
 
