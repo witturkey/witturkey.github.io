@@ -13,7 +13,7 @@ Teknoloji alanında çalışan bir kadın mısınız? Yoksa bilgisayar, elektrik
 Türkiye'nin her yerinden teknoloji alanındaki kadınları bir araya getiren bir ağ oluşturmak.
 
 ## Neler yapıyoruz?
-- Teknoloji etkinliklerinin duyurularını birbirleriyle paylaşıp bu etkinliklerde buluşarak daha çeşitli bir topluluk oluşturuyoruz.
+- Teknoloji etkinliklerinin duyurularını birbirimizle paylaşıp bu etkinliklerde buluşarak daha çeşitli bir topluluk oluşturuyoruz.
 - Türkiye sahnesinde başarılı kadınları vurguluyoruz.
 - Teknoloji ile ilgili haberleri bu alanda güncel kalma amacıyla için birbirimizle paylaşıyoruz.
 
