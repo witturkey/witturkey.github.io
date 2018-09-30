@@ -33,11 +33,11 @@ Teknolojiyle ilgilenen, teknoloji etkinliklerine katılmaya ve toplulukla bağ k
 Tüm tartışmaların çoğunlukla yapıldığı yer burası. Kim olduğunuzu ve teknolojiye duyduğunuz tutkuyu anlatan bir mail göndererek çalışma alanımıza davet alabilirsiniz.
 Mailinizi buraya yollayabilirsiniz: witturkey [at] gmail.com
 
-<!---
-### Linkedin
---->
 ### Facebook
 Facebook grubumuza [buradan](https://www.facebook.com/groups/witturkey/) katılabilirsiniz.
+
+### Linkedin
+Linkedin grubumuza [buradan](https://www.linkedin.com/groups/8690998/) katılabilirsiniz.
 
 ### Bizimle iletişime geçin
 witturkey [at] gmail.com
