@@ -38,8 +38,10 @@ You can send your mail to: witturkey [at] gmail.com
 --->
 
 ### Facebook
-Join our facebook group from [here](https://www.facebook.com/groups/witturkey/).
+Join our Facebook group from [here](https://www.facebook.com/groups/witturkey/).
 
+### Linkedin
+Join our Linkedin group from [here](https://www.linkedin.com/groups/8690998/).
 
 ### Contact Us
 witturkey [at] gmail.com
